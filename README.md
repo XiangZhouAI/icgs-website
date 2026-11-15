@@ -44,7 +44,7 @@ npm start
 - **Join requirements** and **handicap estimation** wording (structure is ready)
 - **Join form** submits in-browser only — wire to email or a form backend
 - **Membership payment** intentionally omitted
-- **Gallery videos** are empty slots; some outing photos are interim society media
+- **Gallery videos** are empty slots; gallery photos are non-people fairway atmosphere placeholders
 - **Brand colours / logo** currently interim from ICGS ScoreSystem assets (`public/brand`, `public/sponsors`)
 
 ## Brand notes
