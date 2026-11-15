@@ -4,10 +4,10 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { isLocale, type Locale } from "@/i18n/config";
 
 const photos = [
-  "/gallery/outing-1.jpg",
-  "/gallery/outing-2.jpg",
-  "/gallery/outing-3.jpg",
-  "/gallery/outing-4.jpg",
+  "/gallery/fairway-1.jpg",
+  "/gallery/fairway-2.jpg",
+  "/gallery/fairway-3.jpg",
+  "/gallery/fairway-4.jpg",
 ];
 
 export async function generateMetadata({

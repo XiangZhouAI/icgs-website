@@ -16,7 +16,7 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
         <div className="hero__media">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/gallery/outing-1.jpg"
+            src="/gallery/fairway-1.jpg"
             alt=""
             width={1600}
             height={1067}
